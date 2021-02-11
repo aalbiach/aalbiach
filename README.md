@@ -7,7 +7,7 @@
 - 🔨 &nbsp; I'm currently working with Java & Spring Boot, Microservices, RabbitMQ.
 - 🌱 &nbsp; I’m currently learning about TDD, DDD, Clean architectures and more!
 - 🤔 &nbsp; I'm an enthusiast of Clean Code, SOLID/DRY/KISS principles, TDD metodology, always trying to learn how to do better.
-- {▶︎} Follower of [CodelyTV](https://github.com/CodelyTV).
+- {▸} Follower of [CodelyTV](https://github.com/CodelyTV).
 - 🚲 &nbsp; My hobbies are practice cycling, ride with my motorcycle and travel (if it’s possible with my motorcycle).
 
 ### 🛠 &nbsp; Tech Stack
